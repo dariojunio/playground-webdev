@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Açaizeiro</title>
+</head>
+<body>
+    <h1>Açaizeiro - Pedidos</h1>
+    <form method="POST" action="teste.jsp">
+        Nome: <input type="text" name="nome"> <br>
+        Email: <input type="email" name="email"> <br>
+        Tamanho: 
+        <input type="radio" name="tamanho" value="p"> 300ml - Pequeno
+        <input type="radio" name="tamanho" value="m"> 500ml - Médio
+        <input type="radio" name="tamanho" value="g"> 1L - Grande
+        <br>
+        Adicional: <select name="adicional">  
+            <option>Banana com Morango</option>
+            <option>Ninho com Kiwi</option>
+            <option>Leite condensado, Creme de avelã e ninho</option>
+        </select>
+        <br>
+        <input type="checkbox" name="calda chocolate" value="sim"> Calda de chocolate
+        <input type="checkbox" name="colher descartavel" value="sim"> Colher descartável
+        <br>
+        Data de entrega: <input type="date" name="data"> 
+        <br>
+        <br>
+        <textarea name="info adicional" placeholder="Informações adicionais..." rows="10" cols="30"></textarea>
+        <input type="submit" value="Enviar">
+
+
+
+    </form>
+</body>
+</html>
