@@ -1,8 +1,8 @@
 # Meu Playground HTML
 
-Bem-vindo(a) ao meu repositório de estudos! Aqui é o meu "playground" de desenvolvimento web, onde documento minha evolução, guardo trechos de código e subo os meus projetos práticos focados em **HTML5**.
+Bem-vindo(a) ao meu repositório de estudos! Aqui é o meu "playground" de desenvolvimento web, onde documento minha evolução, guardo trechos de código e subo os meus projetos práticos focados em **HTML5, CSS**.
 
-O objetivo deste espaço é fixar conceitos fundamentais da estrutura da web antes de avançar para estilização (CSS) e lógica (JavaScript).
+O objetivo deste espaço é fixar conceitos fundamentais da estrutura da web antes de avançar para lógica (JavaScript).
 
 ---
 
