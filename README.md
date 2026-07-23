@@ -1,4 +1,4 @@
-# Meu Playground HTML
+# Meu Playground WebDev
 
 Bem-vindo(a) ao meu repositório de estudos! Aqui é o meu "playground" de desenvolvimento web, onde documento minha evolução, guardo trechos de código e subo os meus projetos práticos focados em **HTML5, CSS**.
 
